@@ -1,4 +1,4 @@
-# Adventure-Works-Sales-Report-using-Power-BI
+# Adventure Works Sales Report
 
 ## Overview
 This repository contains a Power BI Sales Dashboard designed for Adventure Works, a fictitious bike shop. The dashboard visualizes sales data, providing comprehensive insights into various sales metrics, customer trends, and product performance.
