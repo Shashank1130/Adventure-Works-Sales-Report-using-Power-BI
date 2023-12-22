@@ -12,7 +12,7 @@ This repository contains a Power BI Sales Dashboard designed for Adventure Works
 ## Dashboard Structure
 - Page 1: Exec
   - Describe the key executive summary metrics and insights available on this page tailored for high-level decision-making.
-    <img width="866" alt="image" src="https://github.com/Shashank1130/Adventure-Works-Sales-Report-using-Power-BI/assets/107529934/8b1fb882-1d1a-4fef-bf0d-cce41de62504">
+    <img width="500" alt="image" src="https://github.com/Shashank1130/Adventure-Works-Sales-Report-using-Power-BI/assets/107529934/8b1fb882-1d1a-4fef-bf0d-cce41de62504">
 
 - Page 2: Spatial Info
   - Explain how geographic or spatial information related to sales is presented and its significance in the analysis.
